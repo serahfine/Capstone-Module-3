@@ -18,3 +18,4 @@ Untuk membantu menjawab tujuan ini, kami akan mengajukan beberapa pertanyaan pen
 2. Model machine learning apa yang paling cocok untuk menyelidiki customer churn?
 3. Variabel apa yang harus difokuskan untuk mempertahankan tingkat churn pelanggan?
 
+Untuk Model disini kita akan eksplorasi lebih ke dalam model machine learning dan mencoba dengan trial-and-error untuk parameter dan model optimal yang bisa membantu dalam problem ini. Kita akan mencoba dengan model-model classification seperti Decision Tree dan Random Forest, dan juga Hyperparameter Tuning untuk optimisasi model.
